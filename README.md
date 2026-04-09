@@ -1,4 +1,4 @@
-# perf_data_structures
+# perf data structures
 This is a **pet project** to learn and experiment with concurrent data structures.  
 Not production-ready — performance and correctness are the main focus.
 
